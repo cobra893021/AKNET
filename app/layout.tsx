@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   // ▼▼▼ ここから追加 ▼▼▼
   keywords: "経営コンサルティング, 入札活用, 売上アップ支援, 中小企業支援, AKNETWORK", // SEO対策としてキーワードを設定
   verification: {
-    google: "YOUR_GOOGLE_VERIFICATION_CODE", // // 要変更: Google Search Consoleの認証コードを設定
+    google: "djr6NXFXfxma-afCQk1pwcGBjjzhUsEdKdiYAl_nQFQ", // // 要変更: Google Search Consoleの認証コードを設定
   },
   icons: {
     icon: '/aknet_logo_512.png', // ファビコンのパスを指定
